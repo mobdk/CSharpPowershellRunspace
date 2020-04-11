@@ -12,7 +12,6 @@ using System;
 using System.Runtime.InteropServices;
 using System.Management.Automation;
 using System.Management.Automation.Runspaces;
-using System.IO;
 
 namespace Code
 {
